@@ -1,1 +1,9 @@
-spring.application.name=api-docs-practice
+spring:
+  application:
+    name: api-docs-practice
+
+
+springdoc:
+  swagger-ui:
+    url:
+    path: /docs/swagger
